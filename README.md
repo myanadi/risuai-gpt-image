@@ -51,6 +51,6 @@ MIT — see [LICENSE](LICENSE)
 
 ## 🔗 Links
 
-- Author Portfolio: https://app.notion.com/p/FEATURED-3-379742607f3c817bb989ccdb0030eca3?source=copy_link
+- Author Portfolio: https://app.notion.com/p/Portfolio-377742607f3c811fb73ce8226a96ae64?source=copy_link
 - RisuAI: https://github.com/kwaroran/Risuai
 - OpenAI Images API: https://platform.openai.com/docs/api-reference/images
